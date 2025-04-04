@@ -1,0 +1,333 @@
+# Waterfall flashcards
+
+[[cards]]
+term = "What is the waterfall development methodology?"
+definition = "A sequence of consecutive development stages which occur sequentially:\nrequirements -> design -> implementation -> verification -> maintainance"
+sets = [ "computing/software-development", "computing/paper1", "computing/waterfall" ]
+
+[[cards]]
+term = "What makes up the 'requirements' step of the waterfall methodology?"
+definition = "Requirements are written down in one central document, alongside constraints, cost, risk, dependencies and timelines"
+sets = [ "computing/software-development", "computing/paper1", "computing/waterfall" ]
+
+[[cards]]
+term = "What makes up the 'design' step of the waterfall methodology?"
+definition = "A general outline of the plans for the project are collected, describing the purpose and scope as well as implementation of such"
+sets = [ "computing/software-development", "computing/paper1", "computing/waterfall" ]
+
+[[cards]]
+term = "What makes up the 'implementation' step of the waterfall methodology?"
+definition = "The components of the program, as described in the design step, are developed\nto meet the requirements that were set out in the requirements step"
+sets = [ "computing/software-development", "computing/paper1", "computing/waterfall" ]
+
+[[cards]]
+term = "What makes up the 'verification' step of the waterfall methodology?"
+definition = "The program is tested against the requirements to confirm that it meets the requiremnts set out earlier"
+sets = [ "computing/software-development", "computing/paper1", "computing/waterfall" ]
+
+[[cards]]
+term = "What makes up the 'maintainance' step of the waterfall methodology?"
+definition = "The program is maintained by dedicated staff, who fix issues that were not found during testing"
+sets = [ "computing/software-development", "computing/paper1", "computing/waterfall" ]
+
+[[cards]]
+term = "What are the benefits of the waterfall development methodology?"
+definition = "• It is suitable for large-scale projects\n• It identifies design flaws early on"
+sets = [ "computing/software-development", "computing/paper1", "computing/waterfall" ]
+
+[[cards]]
+term = "What are the drawbacks of the waterfall development methodology?"
+definition = "• There is little to no flexibility if the customer's requirements change"
+sets = [ "computing/software-development", "computing/paper1", "computing/waterfall" ]
+
+# RAD flashcards
+
+[[cards]]
+term = "What is the rapid application development (RAD) development methodology?"
+definition = "A continuous process of prototyping, where new versions of the program are\ncontinually produced, each incrementally improving on the last until the requirements are met.\nThere are frequent meetings with managers."
+sets = [ "computing/software-development", "computing/paper1", "computing/rad" ]
+
+[[cards]]
+term = "What are the benefits of RAD?"
+definition = "• A high level of collaboration is acheived between the developers and the customer.\n• The software is more likely to be usable because the client is more involved in the design."
+sets = [ "computing/software-development", "computing/paper1", "computing/rad" ]
+
+# extreme has lots of customer-meetings
+
+# Materials flashcards
+
+[[cards]]
+term = "What is density?"
+definition = "Mass per unit volume, in kg/m³"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is the equation for density?"
+definition = "ρ = m ÷ v\ndensity = mass ÷ volume"
+sets = [ "physics/materials", "physics/equations" ]
+
+[[cards]]
+term = "What is pressure?"
+definition = "Force per unit area, in Pa or N/m²"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is the general equation for pressure?"
+definition = "p = F ÷ A\npressure = force ÷ area"
+sets = [ "physics/materials", "physics/equations" ]
+
+[[cards]]
+term = "What is the equation for pressure on an object in a fluid?"
+definition = "p = ρhg\npressure = density × depth of object × gravitational field strength"
+sets = [ "physics/materials", "physics/equations" ]
+
+[[cards]]
+term = "What is upthrust?"
+definition = "The upward force on an object in a fluid as a result of displacing the fluid"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is the equation for upthrust?"
+definition = "U = ρvg\nupthrust = density of fluid × volume of fluid displaced × gravitational field strength"
+sets = [ "physics/materials", "physics/equations" ]
+
+[[cards]]
+term = "What is archimedes' principle?"
+definition = "When a body is in a fluid (partially of fully), it experiences upthrust equal to the weight of fluid displaced"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "How is archimedes' principle proven?"
+definition = "F = pA = ρhgA = Vρg = mg = W\nForce\n= pressure × surface area\n= density of fluid × depth of object × gravitational field strength × surface area\n= volume of fluid displaced × density of fluid × gravitational field strength\n= mass of fluid displaced × gravitational field strength\n= weight of fluid displaced"
+sets = [ "physics/materials", "physics/proofs" ]
+
+[[cards]]
+term = "What is viscous drag?"
+definition = "The resistive force applied to an object moving through a fluid as a result of the fluid's resistance to deformation"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is Stokes' law?"
+definition = "F = 6πηrv\nviscous drag = 6 × π × viscosity × radius of object × terminal velocity"
+sets = [ "physics/materials", "physics/equations" ]
+
+[[cards]]
+term = "When does Stokes' law apply?"
+definition = "• Small, spherical object\n• Low speed\n• Laminar flow"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What are the types of flow in a fluid?"
+definition = "• Laminar flow\n• Turbulent flow"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is laminar flow?"
+definition = "A type of flow in a fluid where layers move in parallel with no mixing of said layers"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is turbulent flow?"
+definition = "A type of flow in a fluid where layers mix unpredictably and chaotically, eddy currents & vorticies form often"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is viscosity?"
+definition = "A fluid's resistance to deformation as a result of internal friction between adjacent layers of fluid"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "How is viscosity affected by temperature?"
+definition = "• Most liquids decrease viscosity with increasing temperature\n• Gases increase viscosity with increasing temperature"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is Hooke's law?"
+definition = "Extension is directly proportional to force applied\ngiven:\n• constant environmental conditions\n• before the limit of proportionality"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is the equation for Hooke's law?"
+definition = "ΔF = kΔx\nForce = spring constant × extension"
+sets = [ "physics/materials", "physics/equations" ]
+
+[[cards]]
+term = "What is stress?"
+definition = "Force applied per unit cross-sectional area"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is the equation for stress?"
+definition = "σ = F ÷ A\nstress = force × cross-sectional area"
+sets = [ "physics/materials", "physics/equations" ]
+
+[[cards]]
+term = "What is strain?"
+definition = "The ratio of extension to original length"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is the equation for strain?"
+definition = "ε = Δx ÷ x\nstrain = extension ÷ original length"
+sets = [ "physics/materials", "physics/equations" ]
+
+[[cards]]
+term = "What is the young modulus?"
+definition = "A material's property that describes its stiffness up to the limit of proportionality"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is the equation for the young modulus?"
+definition = "Ε = σ ÷ ε\nyoung modulus = stress ÷ strain"
+sets = [ "physics/materials", "physics/equations" ]
+
+[[cards]]
+term = "How is Hooke's law shown on a force-extension graph?"
+definition = "Gradient is equal to the spring constant"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is the limit of proportionality?"
+definition = "The point where Hooke's law stops applying."
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is the elastic limit of a material?"
+definition = "The point where deformation becomes plastic and permanent"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is the yield point of a material?"
+definition = "The point where further deformation occurs without an increase to the load"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is elastic deformation?"
+definition = "A type of deformation that is undone after the load is removed"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is plastic deformation?"
+definition = "A type of deformation that is not undone after the load is removed"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is ductility?"
+definition = "The ability to withstand lots of plastic deformation without breaking\nThe ability to be stretched into wires (higher means more resistant)"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is brittleness?"
+definition = "Resistance to fracturing (lower means more resistant)"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is stiffness?"
+definition = "Resistance to deformation (higher means more resistant)"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is toughness?"
+definition = "Resistance to fracturing (higher means more resistant)"
+sets = [ "physics/materials" ]
+
+[[cards]]
+term = "What is strength?"
+definition = "Resistance to deformation (higher means more resistant)"
+sets = [ "physics/materials" ]
+
+# Uncertainty flashcards
+
+[[cards]]
+term = "How do you work out absoulte uncertainty?"
+definition = "One of:\n• Half of the smallest division on the instrument\n• Half of the least significant figure recorded\n• Half of the range of repeats"
+sets = [ "physics/uncertainty" ]
+
+[[cards]]
+term = "How do you work out percentage uncertainty?"
+definition = "absoule uncertainty ÷ average measurement (× 100)"
+sets = [ "physics/uncertainty" ]
+
+[[cards]]
+term = "How do you combine uncertainties?"
+definition = "Addition & subtraction: add absoule uncertainty\nmultiplication & division: add percentage uncertainties\nexponentation: multiply percentage uncertainty by power\nuncertainties should NEVER combine to a smaller value outside of exponentation\nalways use base units"
+sets = [ "physics/uncertainty" ]
+
+# CPU flashcards
+
+[[cards]]
+term = "What are the busses in the system?"
+definition = "Control bus\nData bus\nAddress bus"
+sets = [ "computing/cpu" ]
+
+[[cards]]
+term = "What does the control bus carry?"
+definition = "Control signals for other components"
+sets = [ "computing/cpu" ]
+
+[[cards]]
+term = "How do components interact with the control bus?"
+definition = "The CPU reads & writes\nmemory reads & writes\nI/O reads & writes"
+sets = [ "computing/cpu" ]
+
+[[cards]]
+term = "What does the data bus carry?"
+definition = "Data to be written to and data read from memory"
+sets = [ "computing/cpu" ]
+
+[[cards]]
+term = "How do components interact with the data bus?"
+definition = "The CPU reads & writes\nmemory reads & writes\nI/O reads & writes"
+sets = [ "computing/cpu" ]
+
+[[cards]]
+term = "What does the address bus carry?"
+definition = "Memory addresses to and from memory (where to read from / write to)"
+sets = [ "computing/cpu" ]
+
+[[cards]]
+term = "How do components interact with the address bus?"
+definition = "The CPU writes\nmemory reads\nI/O reads & writes"
+sets = [ "computing/cpu" ]
+
+[[cards]]
+term = "What is the FDE cycle?"
+definition = "A cycle that occurs on every cpu cycle, it:\nFetches the next instruction\nDecodes the instruction\nExecutes the instruction"
+sets = [ "computing/cpu" ]
+
+[[cards]]
+term = "What does the fetch step include?"
+definition = "1. Copy the PC to the MAR\n2. Copy the contents of RAM at the address in the MAR to the MDR\n3. Copy the contents of the MDR to the CIR\n4. Increment the PC"
+sets = [ "computing/cpu" ]
+
+[[cards]]
+term = "What does the decode step include?"
+definition = "1. The CU decodes the instruction in the CIR\n2. The CU tells the ALU e.t.c. what to do"
+sets = [ "computing/cpu" ]
+
+# [[cards]]
+# term = "What does the execute step include?"
+# definition = "1. The 
+# sets = [ "
+
+# computing general revision
+
+[[cards]]
+term = "What is a database?"
+definition = "A structured store of persistent information."
+sets = [ "computing/databases" ]
+
+[[cards]]
+term = "What is a secondary key?"
+definition = "A non-unique piece of information stored about a record that is used to speed up indexing and querying"
+sets = [ "computing/databases" ]
+
+[[cards]]
+term = "What is DBMS?"
+definition = "DataBase Management Software\nallows users to interact with a database, capture and analyse data & interact with other software"
+sets = [ "computing/databases" ]
+
+[[cards]]
+term = "Give examples of lossy and lossless formats"
+definition = "Lossy:\n• jpeg\n· mp3\nLossless:\n• png\n• flac\n• wav"
+sets = [ "computing/compression" ]
